@@ -1,0 +1,5 @@
+{
+  "name": "AI Financial Chart Analyst by Tradersxauusd",
+  "description": "An AI-powered tool that analyzes uploaded financial chart images to provide technical analysis, including trends, support/resistance levels, candlestick patterns, and trading recommendations.",
+  "requestFramePermissions": []
+}
